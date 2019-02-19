@@ -1,0 +1,2 @@
+# Exo
+## Préparation du hashcode
